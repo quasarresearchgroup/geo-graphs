@@ -1,7 +1,7 @@
 /**
  * 
  */
-package graphhopper;
+package org.quasar.graphhopper;
 
 import java.util.List;
 import java.util.Locale;
